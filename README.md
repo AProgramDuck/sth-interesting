@@ -8,3 +8,4 @@ Alt  还原<br>
 End  锁<br>
 # fish+.exe
 晚上5.30后自动关闭
+choice /t 10 /d y /n >nul
